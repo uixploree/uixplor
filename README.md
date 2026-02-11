@@ -1,81 +1,58 @@
-<h1 align="center">UIXplor</h1>
 <p align="center">
-Exploring motion-driven UI components for modern developers.
+  <img src="./cover.png" alt="UIXplor Banner"/>
+</p>
+
+<h1 align="center">UIXplor</h1>
+
+<p align="center">
+  Motion-first open UI exploration platform.
 </p>
 
 <p align="center">
-  <i>Inspired by open-source. Built differently.</i>
+  <i>Design. Motion. Experience.</i>
 </p>
 
 ---
 
-## 🚀 About UIXplor
+## 🚀 About
 
-UIXplor is an experimental UI exploration platform focused on:
+UIXplor is a modern UI component exploration platform built for developers who care about interaction and motion.
 
-- Interactive UI Components
-- Motion-first design
+We focus on:
+
+- Interactive UI components
+- Motion-driven design systems
 - Clean frontend architecture
-- Developer-friendly code snippets
-- Creative & anime-inspired interfaces
-
-We aim to build a space where UI feels alive.
+- Developer-friendly snippets
+- Creative, anime-inspired aesthetics
 
 ---
 
 ## 🌌 Vision
 
-To create a next-generation open UI library  
-where design, motion, and logic coexist.
+To build a next-generation open UI library  
+where interfaces feel alive.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Built With
 
-- Next.js
-- React
-- Tailwind CSS
-- GSAP
-- Motion libraries
-- Node.js (future expansion)
+Next.js • React • Tailwind • GSAP • Motion
 
 ---
 
-## 🛠️ Current Status
+## 👨‍💻 Team
 
-🚧 Early Stage Development  
-✨ Building core component structure  
-🎨 Designing brand identity  
-
----
-
-## 👨‍💻 Core Team
-
-### 🧠 Founder & Frontend Engineer
-- [Happy (Happynamikaze)](https://github.com/Happynamikaze)
-
-### ⚙️ Collaborator
+### Founder
 - [Sukhop](https://github.com/sukhop)
+- [Happy](https://github.com/Happynamikaze)
+
+ 
 
 ---
 
-## 📌 Roadmap
+## 📍 Status
 
-- [ ] Component Gallery
-- [ ] Code Copy System
-- [ ] Contributor Profiles
-- [ ] Voting / Save Feature
-- [ ] Public Launch
-
----
-
-## 🌍 Philosophy
-
-> UI should not just be seen.  
-> It should be felt.
-
----
-
-<p align="center">
-Built with curiosity and motion.
-</p>
+🚧 In Development  
+🌱 Growing  
+🚀 Launching Soon
